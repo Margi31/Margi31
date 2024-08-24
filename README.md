@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Margi Chaudhary
 - 👀 I’m interested in Coding, ML, AI, DL, Web dev
-- 🌱 I’m currently 3rd B.Tech student
+- 🌱 I’m currently 3rd B.Tech ICT student 
 - 📫 How to reach me https://www.linkedin.com/in/margi3/ 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Can sleep more than 24hours
