@@ -3,7 +3,7 @@
 - 🌱 I’m currently 3rd B.Tech ICT student 
 - 📫 How to reach me https://www.linkedin.com/in/margi3/ 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Can sleep more than 24hours
+- ⚡ Fun fact: Hehehehe!!
 
 <!---
 Margi31/Margi31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
