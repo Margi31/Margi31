@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Margi Chaudhary
-- 👀 I’m interested in Coding, ML, AI, DL, Web dev
-- 🌱 I’m currently 3rd B.Tech ICT student 
+- 👀 I’m interested in Coding, ML, AI, DL, Computer Vision (OpenCV)
+- 🌱 Final Year B.Tech student 
 - 📫 How to reach me https://www.linkedin.com/in/margi3/ 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Hehehehe!!
